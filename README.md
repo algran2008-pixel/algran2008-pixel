@@ -1,4 +1,6 @@
-## Hi there 👋
+## Añado README de perfiles inspiradores:
+- [Jessica lim](https://github.com/JessicaLim8)
+- [Thomas Guibert](https://github.com/thmsgbrt)
 
 <!--
 **algran2008-pixel/algran2008-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
