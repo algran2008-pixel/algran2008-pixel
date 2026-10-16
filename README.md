@@ -1,6 +1,14 @@
 ## Añado README de perfiles inspiradores:
 - [Jessica lim](https://github.com/JessicaLim8)
-- [Thomas Guibert](https://github.com/thmsgbrt)
+- [Gautam krishna R]([https://github.com/thmsgbrt](https://github.com/gautamkrishnar))
+
+# 👽 <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Ink&weight=600&size=40&pause=1000&color=391EFF&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=ALEJANDRO+PABLOS" align="middle"> 👽
+## Sobre Mi:
+- Me gusta el deporte, y de no ser por mi lesión de rodilla, el verando de 2026 hubiera ido a los Picos de Europa con tiendas de campaña y demás; y a esquiar en navidades.
+- Nunca me ha gustado memorizar información, aunque en contraste la historia siempre se me ha dado muy bien.
+- Mi meta es montar mi propia empresa, pese a que todavía no tengo muy claro ni de qué ni cómo.
+
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 <!--
 **algran2008-pixel/algran2008-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
