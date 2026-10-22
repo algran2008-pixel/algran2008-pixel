@@ -31,6 +31,6 @@
 
 ## 📬 Contacto
 
-- ✉️ **Correo:** [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
+- ✉️ **Correo:** [a.pablos@fp.safavalladolid.com](https://mail.google.com/mail/?view=cm&fs=1&to=a.pablos@fp.safavalladolid.com)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=a.pablos@fp.safavalladolid.com)
