@@ -24,11 +24,13 @@
 
 | Categoría | Herramientas / Lenguajes | Estado |
 | :--- | :--- | :--- |
-| **Lenguajes** | Java, HTML5, CSS3, Markdown | 🐣 Aprendiendo en *DAM* |
+| **Lenguajes** | Java, HTML, CSS, Markdown | 🐣 Aprendiendo en *DAM* |
 | **Herramientas** | Git, GitHub, VS Code | 🚀 En uso diario |
 
 ---
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+- ✉️ **Correo:** [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
