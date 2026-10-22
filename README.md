@@ -22,7 +22,7 @@
 
 ## 👤 Sobre Mí
 
-- 🏃‍♂️ Me gusta el deporte, y de no ser por mi **lesión de rodilla**, el verano de 2026 hubiera ido a los *Picos de Europa* con tiendas de campaña y demás; y a esquiar en navidades.
+- 🏃‍♂️ Me gusta el deporte y, de no ser por mi **lesión de rodilla**, el verano de 2026 hubiera ido a los *Picos de Europa* con tiendas de campaña y demás; y a esquiar en navidades.
 - :eyes: Nunca me ha gustado memorizar información, aunque en contraste la *historia* siempre se me ha dado muy bien.
 - :office: Mi meta es **montar mi propia empresa**, pese a que todavía no tengo muy claro ni de qué ni cómo.
 
