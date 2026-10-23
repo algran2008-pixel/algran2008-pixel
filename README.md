@@ -79,7 +79,7 @@
 
 ## 📬 Contacto
 
-- ✉️ **Correo:** [a.pablos@fp.safavalladolid.com](https://mail.google.com/mail/?view=cm&fs=1&to=a.pablos@fp.safavalladolid.com)
+ ✉️ **Correo:** [a.pablos@fp.safavalladolid.com](https://mail.google.com/mail/?view=cm&fs=1&to=a.pablos@fp.safavalladolid.com)
 
 <br>
 
