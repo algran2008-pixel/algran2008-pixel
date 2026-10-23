@@ -1,4 +1,4 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=69&descAlignY=60)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,391EFF&height=120&section=header)
 
 ## 💡 Perfiles de Inspiración
 - [Jessica Lim](https://github.com/JessicaLim8)
@@ -20,11 +20,11 @@
 <tr>
 <td>
 
-## 👤 Sobre Mí
+## 👤 1. Sobre Mí
 
-- 🏃‍♂️ Me gusta el deporte y, de no ser por mi **lesión de rodilla**, el verano de 2026 hubiera ido a los *Picos de Europa* con tiendas de campaña y demás; y a esquiar en navidades.
-- :eyes: Nunca me ha gustado memorizar información, aunque en contraste la *historia* siempre se me ha dado muy bien.
-- :office: Mi meta es **montar mi propia empresa**, pese a que todavía no tengo muy claro ni de qué ni cómo.
+- 🏃‍♂️ Me gusta el deporte, y de no ser por mi **lesión de rodilla**, el verano de 2026 hubiera ido a los *Picos de Europa* con tiendas de campaña y demás; y a esquiar en navidades.
+- 📄 Nunca me ha gustado memorizar información, aunque en contraste la *historia* siempre se me ha dado muy bien.
+- 👨‍💻 Mi meta es **montar mi propia empresa**, pese a que todavía no tengo muy claro ni de qué ni cómo.
 
 </td>
 </tr>
@@ -36,7 +36,7 @@
 <tr>
 <td>
 
-## 🛠️ Tecnologías y Habilidades
+## 🛠️ 2. Tecnologías y Habilidades
 
 | Categoría | Herramientas / Lenguajes | Estado |
 | :--- | :--- | :--- |
@@ -52,6 +52,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 🏔️ Fuera del Código
+
+- ⛷️ **Naturaleza y Deporte:** Juego (*jugaba) al balonmano, y me encantan los vivacs a la interperie.
+- 📖 **Videojuegos:** Me gustan los tipos shooter y los que me marean la cabeza. Los de detectives están bastante bien.
+- 💡 **Amigos:** Pertenezco a un grupo de peña en mi pueblo de 20 chavales. _Muy majos todos_.
 
 </td>
 </tr>
