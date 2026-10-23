@@ -1,4 +1,4 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,391EFF&height=120&section=header)
+![Header Banner](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 ## 💡 Perfiles de Inspiración
 - [Jessica Lim](https://github.com/JessicaLim8)
