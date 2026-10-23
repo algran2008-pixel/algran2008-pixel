@@ -86,3 +86,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=a.pablos@fp.safavalladolid.com)
 
 </div>
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
