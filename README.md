@@ -65,9 +65,9 @@
 
 ## 🏔️ Fuera del Código
 
-- ⛷️ **Naturaleza y Deporte:** Juego (*jugaba) al balonmano, y me encantan los vivacs a la interperie.
-- 📖 **Videojuegos:** Me gustan los tipos shooter y los que me marean la cabeza. Los de detectives están bastante bien.
-- 💡 **Amigos:** Pertenezco a un grupo de peña en mi pueblo de 20 chavales. _Muy majos todos_.
+- 🤾‍♂️ **Naturaleza y Deporte:** Juego (*jugaba) al balonmano, y me encantan los vivacs a la interperie.
+- 🎮 **Videojuegos:** Me gustan los tipos shooter y los que me marean la cabeza. Los de detectives están bastante bien.
+- :family: **Amigos:** Pertenezco a un grupo de peña en mi pueblo de 20 chavales. _Muy majos todos_.
 
 </td>
 </tr>
@@ -87,4 +87,4 @@
 
 </div>
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+![Footer Banner](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
